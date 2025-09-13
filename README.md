@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Coderzone23/Coderzone23/blob/main/nanananananannana.gif">
 
 
 Email Me 👉 ✉️ dsouvik479@gmail.com For Collaboration/Project or Anything Else. 😊😊
